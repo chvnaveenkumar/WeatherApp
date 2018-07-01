@@ -1,8 +1,9 @@
 # WeatherApp
 
 # Download git repo:
+(https://github.com/chvnaveenkumar/WeatherApp)
 
-How to install
+# How to install
 
 cd WeatherApp
 npm install
